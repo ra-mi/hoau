@@ -1,0 +1,4 @@
+<?
+
+echo "php rocks";
+?>
