@@ -1,0 +1,3 @@
+WebView webview = (WebView)findViewById(R.id.webview);
+webview.getSettings().setJavaScriptEnabled(true);
+webview.loadUrl(getString(R.string.myurl));
